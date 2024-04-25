@@ -11,9 +11,9 @@ Ein ePortfolio ist eine **selektiv** und **reflektiert** zusammengestellte,
 Arbeit und den Fortschritt der Autor\*in in **verschiedenen Kontexten** und über
 eine **längere Zeitspanne** dokumentiert.
 
-| Form          | Abgabe  | Gewicht |
-| :------------ | :-----: | ------: |
-| Gruppenarbeit | Woche 9 |     40% |
+| Sozialform    | Form                | Abgabe  | Gewicht |
+| :------------ | :------------------ | :-----: | ------: |
+| Gruppenarbeit | Multimediale Arbeit | Woche 9 |     40% |
 
 ## Auftrag
 

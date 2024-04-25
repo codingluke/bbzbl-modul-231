@@ -30,4 +30,5 @@ keywords:
 - Modulwebseite
 - [GPT zum Modul](https://chat.openai.com/g/g-h8Zy8qQM7-bbzbl-m231)
 - [Miro Board (Kanban)](https://miro.com/)
+- [Google Sites](https://sites.google.com)
 - [SAL für das Administrative (Absenzen und Noten etc.)](https://portal.sbl.ch/my.policy)

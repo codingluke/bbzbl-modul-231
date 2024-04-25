@@ -7,30 +7,35 @@ footer: BBZBL / Gianluca Aebi / Datenschutz und Datensicherheit anwenden
 ---
 
 <!-- _class: big center -->
+
 ### Modul 231
+
 ## Datenschutz und Datensicherheit anwenden
 
 ---
 
-
 <!-- _class: big center -->
+
 ### Grundlagen
+
 # Tools und Aufbau des Moduls
+
 ## Modul 231
 
 ---
-
 
 # Agenda
 
 ::: columns
 
-- **1. Block**  | Begrüssung 
-    - [Moduleinführung](https://gaebi4102.github.io/bbzbl-modul-231/docs/)
-    - [Quartalsplan](https://gaebi4102.github.io/bbzbl-modul-231/docs/)
-    - [LBs](https://gaebi4102.github.io/bbzbl-modul-231/docs/02%20beurteilungen)
+- **1. Block** | Begrüssung
+  - [Moduleinführung](https://gaebi4102.github.io/bbzbl-modul-231/docs/)
+  - [Quartalsplan](https://gaebi4102.github.io/bbzbl-modul-231/docs/)
+  - [LBs](https://gaebi4102.github.io/bbzbl-modul-231/docs/02%20beurteilungen)
 - **2. Block** | Informationssicherheit
+
 ::: split
+
 - **3. Block** | Daten
 - **4. Block** | Sicherheit und Risiko
 
@@ -40,31 +45,34 @@ footer: BBZBL / Gianluca Aebi / Datenschutz und Datensicherheit anwenden
 
 # Modulidentifikation
 
-| Modulnummer | 231 |
-|:--------------- | :--------------- |
-| Kompetenz | Setzt Datenschutz und Datensicherheit bei Informatiksystemen ein. Überprüft vorhandene Systeme auf Einhaltung von Richtlinien. |
-| Lektionen | 36 |
-| Beschreibung | [231 auf Modulbaukasten.ch](https://www.modulbaukasten.ch/module/231/1/de-DE?title=Datenschutz-und-Datensicherheit-anwenden) |
+| Modulnummer  | 231                                                                                                                            |
+| :----------- | :----------------------------------------------------------------------------------------------------------------------------- |
+| Kompetenz    | Setzt Datenschutz und Datensicherheit bei Informatiksystemen ein. Überprüft vorhandene Systeme auf Einhaltung von Richtlinien. |
+| Lektionen    | 36                                                                                                                             |
+| Beschreibung | [231 auf Modulbaukasten.ch](https://www.modulbaukasten.ch/module/231/1/de-DE?title=Datenschutz-und-Datensicherheit-anwenden)   |
 
 ---
 
 # Modul Lernziele :dart:
 
-1. Kategorisiert Daten aufgrund ihres Schutzbedarfes. 
+1. Kategorisiert Daten aufgrund ihres Schutzbedarfes.
 
-2. Überprüft und verbessert gegebenenfalls die Datensicherheit der eigenen Infrastruktur.
+2. Überprüft und verbessert gegebenenfalls die Datensicherheit der eigenen
+   Infrastruktur.
 
 3. Setzt verschiedene Möglichkeiten der Datenspeicherung ein.
 
 4. Überprüft eingesetzte Anwendungen auf Einhaltung der Datenschutzgesetze.
 
-5. Zeigt Konsequenzen von Fehlern im Datenschutz und bei der Datensicherheit auf.
+5. Zeigt Konsequenzen von Fehlern im Datenschutz und bei der Datensicherheit
+   auf.
 
-6. Wählt Software für die Einhaltung von Datenschutz und Datensicherheit aufgrund der Lizenzmodelle aus.
+6. Wählt Software für die Einhaltung von Datenschutz und Datensicherheit
+   aufgrund der Lizenzmodelle aus.
 
 ---
 
-# Leistungsbeurteilungsvorgabe :muscle: 
+# Leistungsbeurteilungsvorgabe :muscle:
 
 ::: columns
 
@@ -72,11 +80,10 @@ footer: BBZBL / Gianluca Aebi / Datenschutz und Datensicherheit anwenden
 
 ### :pencil: Lernjournal
 
-- Woche 1 - 9 
+- Woche 1 - 9
 - Journal das während des Unterrichts geführt wird.
 
 [:link: details...](https://gaebi4102.github.io/bbzbl-modul-231/docs/02%20beurteilungen/lb1)
-
 
 ::: split
 
@@ -93,24 +100,22 @@ footer: BBZBL / Gianluca Aebi / Datenschutz und Datensicherheit anwenden
 
 ---
 
-# Leistungsbeurteilungsvorgabe :muscle: 
+# Leistungsbeurteilungsvorgabe :muscle:
 
 ## LB3 50%
 
-### :pencil: Projektarbeit 
+### :pencil: Projektarbeit
 
 - Woche 9
-- Projektarbeit zur Fallstudie 
+- Projektarbeit zur Fallstudie
 
 [:link: details...](https://gaebi4102.github.io/bbzbl-modul-231/docs/02%20beurteilungen/lb3)
-
-
 
 ---
 
 <!-- _class: big -->
 
-# Regeln :cop: 
+# Regeln :cop:
 
 - Pünktlichkeit
 - Aufmerksamkeit während des Unterrichts
@@ -133,23 +138,20 @@ footer: BBZBL / Gianluca Aebi / Datenschutz und Datensicherheit anwenden
 
 ---
 
-# Die Modulwebseite  [:link:](https://gaebi4102.github.io/bbzbl-modul-231/)
+# Die Modulwebseite [:link:](https://gaebi4102.github.io/bbzbl-modul-231/)
 
 <!-- - **Faktenblatt**: Übersicht über alle Themen  -->
 <!-- - **INB21A**: Quartalübersicht und Wochenpräsentationen -->
 
 ::: columns
 
-**Lektionen**
-Wochenfolien und die Quartalsübersicht
+**Lektionen** Wochenfolien und die Quartalsübersicht
 
-**Beurteilungen** 
-Prüfungsrelevante Infos 
+**Beurteilungen** Prüfungsrelevante Infos
 
 ::: split
 
-**:pencil: Grundlagen**
-Grundlagen zum Thema und Einstieg ins Modul
+**:pencil: Grundlagen** Grundlagen zum Thema und Einstieg ins Modul
 
 :::
 
@@ -159,8 +161,6 @@ Grundlagen zum Thema und Einstieg ins Modul
 
 <!-- _class: big center -->
 
-# :superhero: 
+# :superhero:
 
 Die Aufgaben eines Kapitels sind aufeinander aufbauend.
-
-
