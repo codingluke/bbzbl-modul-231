@@ -32,6 +32,14 @@ footer: BBZBL / Lukas Hodel / Datenschutz und Datensicherheit anwenden
 
 ---
 
+<!-- _class: big -->
+
+# Kennenlernen
+
+# <!--fit--> :accordion: :guitar: :climbing: :runner: :lotus_position: :family_man_woman_girl_boy:
+
+---
+
 # Modulidentifikation
 
 | Modulnummer  | 231                                                                                                                            |
@@ -90,13 +98,22 @@ footer: BBZBL / Lukas Hodel / Datenschutz und Datensicherheit anwenden
 
 ---
 
+<!-- _class: big -->
+
 # :cop: Regeln
 
 - Pünktlichkeit
+
 - Selbständiges Arbeiten
 - Internet als Arbeitsmittel
 
-## Wer beim **Gamen** erwischt wird, **backt einen Kuchen** für alle
+---
+
+<!-- _class: big center -->
+
+# :cop: Regeln / Zocken :joystick:
+
+### Wie wollen <u style="font-size: 3rem;">**wir**</u> vorgehen, wenn jemand im Unterricht zockt?
 
 ---
 
@@ -124,4 +141,42 @@ footer: BBZBL / Lukas Hodel / Datenschutz und Datensicherheit anwenden
 
 # :pencil: Gruppen Bilden
 
-1. 
+- :dart: Alle wissen mit wem sie die nächsten 9 Wochen zusammenarbeiten
+
+1. **Sich kennenlernen**
+
+2. **Team Captain bestimmen**
+
+   - Der Team Captain ist nicht der Chef! Er ist gleichgestellt.
+   - Er ist jedoch die Person, welche koordinieret, damit alle wissen an was
+     gerade gearbeitet wird.
+
+---
+
+# :pencil: Technische Infrastruktur aufbauen
+
+- :dart: Die Infrastruktur ist vorhanden und klar, sodass gearbeitet werden
+  kann.
+
+1. **Google Site erstellen**
+
+   - Berechtigungen verteilen
+
+2. **Miro Board erstellen**
+
+   - Rumspielen
+
+---
+
+# :pencil: Defintionen formulieren
+
+- :dart: Allen ist klar wie miteinander gearbeitet wird
+- :dart: Allen ist klar wann ein Arbeitspaket als gemacht gilt
+
+1. **Definition of Done formulieren**
+
+   - Im ePortfolio festhalten
+
+2. **Definition of Fun formulieren**
+
+   - Im ePortfolio festhalten
