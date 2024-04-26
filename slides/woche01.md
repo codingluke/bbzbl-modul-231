@@ -141,14 +141,14 @@ footer: BBZBL / Lukas Hodel / Datenschutz und Datensicherheit anwenden
 
 # :pencil: Gruppen Bilden
 
-- :dart: Alle wissen mit wem sie die nächsten 9 Wochen zusammenarbeiten
+- :dart: Alle wissen, mit wem sie die nächsten 9 Wochen zusammenarbeiten
 
 1. **Sich kennenlernen**
 
 2. **Team Captain bestimmen**
 
-   - Der Team Captain ist nicht der Chef! Er ist gleichgestellt.
-   - Er ist jedoch die Person, welche koordinieret, damit alle wissen an was
+   - Der Team-Captain ist nicht der Chef! Er ist gleichgestellt.
+   - Er ist jedoch die Person, welche koordiniert, damit alle wissen an was
      gerade gearbeitet wird.
 
 ---
@@ -162,16 +162,16 @@ footer: BBZBL / Lukas Hodel / Datenschutz und Datensicherheit anwenden
 
    - Berechtigungen verteilen
 
-2. **Miro Board erstellen**
+2. **Miroboard erstellen**
 
-   - Rumspielen
+   - Herumspielen
 
 ---
 
 # :pencil: Defintionen formulieren
 
-- :dart: Allen ist klar wie miteinander gearbeitet wird
-- :dart: Allen ist klar wann ein Arbeitspaket als gemacht gilt
+- :dart: Allen ist klar, wie miteinander gearbeitet wird
+- :dart: Allen ist klar, wann ein Arbeitspaket als gemacht gilt
 
 1. **Definition of Done formulieren**
 
