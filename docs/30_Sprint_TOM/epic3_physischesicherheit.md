@@ -27,6 +27,8 @@ Keep your hands out of the cookie jar!!
 <details>
   <summary> ℹ️ Quellen für die Recherche </summary>
 
+- [CH EDÖB: Leitfaden TOM](https://www.edoeb.admin.ch/edoeb/de/home/kurzmeldungen/km2024/23012024_leitfaden_tom.html)
+
 - [**ComputerWeekly:** Physische Sicherheit (Objektschutz)](https://www.computerweekly.com/de/definition/Physische-Sicherheit-Objektschutz)
 
 - [**security insider:** Was ist physische IT-Sicherheit?](https://www.security-insider.de/was-ist-physische-it-sicherheit-a-712152/)

@@ -2,36 +2,39 @@
 keywords:
   - pdf
 ---
+
 # Technische Massnahmen
 
 Who the F*** is TOM? 🧐
 
-## 🎉 Celebration Criteria
+## 🎉 Celebration-Criteria
 
-  - :dart: Sie kennen Technische Massnahmen zum Schutz der Daten.
+  - :dart: Sie kennen technische Massnahmen zum Schutz der Daten.
 
 ## :compass: Wegweiser
 
 <details>
   <summary> 🤔 Leitfragen </summary>
 
-- Welche Technischen Massnahmen gibt es ?
+- Welche technischen Massnahmen gibt es?
   - Beschreiben sie einige davon
-- Welche Technischen Massnahmen kennen sie von ihrem Betrieb?
-- Wie verbessern Technische Massnahmen die IT Sicherheit?
-- Wo spielen Organisatorische und Technische Massnahmen zusammen?
+- Welche technischen Massnahmen kennen sie von ihrem Betrieb?
+- Wie verbessern technische Massnahmen die IT-Sicherheit?
+- Wo spielen organisatorische und organisatorische Massnahmen zusammen?
 - Welche Gefahren gibt es?
-  - Beschreiben sie einige davon
--...
+  - Beschreiben Sie einige davon
+- ...
 
 </details>
 
 <details>
   <summary> ℹ️ Quellen für die Recherche</summary>
 
+- [CH EDÖB: Leitfaden TOM](https://www.edoeb.admin.ch/edoeb/de/home/kurzmeldungen/km2024/23012024_leitfaden_tom.html)
+
 - [**Swiss Infosec:** Technische und organisatorische Massnahmen (TOM)](https://www.infosec.ch/beratung/datenschutz/technische-und-organisatorische-massnahmen-tom/)
 
-- [**Toshiba Tec Switzerland AG** Allgemeine Beschreibung der technischen und organisatorischen Massnahmen](https://www.toshibatec.ch/de/tom/)
+- [**Toshiba Tec Switzerland AG** allgemeine Beschreibung der technischen und organisatorischen Massnahmen](https://www.toshibatec.ch/de/tom/)
 
 - [**Swisscom:** 10 Tipps, wie sich KMU vor Cyberattacken schützen](https://www.swisscom.ch/de/b2bmag/sicherheit/it-security-strategie-kmu/)
 

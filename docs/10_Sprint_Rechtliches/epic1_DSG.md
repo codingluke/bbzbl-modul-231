@@ -12,19 +12,20 @@ diese für uns als Informatiker.
 
 1. **Kategorisiert Daten aufgrund ihres Schutzbedarfs.**
 
-    - :dart: Kennt verschiedene Rechtsräume (Schweiz, EU).
-    - :dart: Kennt für den jeweiligen Rechtsraum die juristischen Werke (z. B. DSG,
-      DSGVO).
+   - :dart: Kennt verschiedene Rechtsräume (Schweiz, EU).
+   - :dart: Kennt für den jeweiligen Rechtsraum die juristischen Werke (z. B.
+     DSG, DSGVO).
 
 2. **Überprüft eingesetzte Anwendungen auf Einhaltung der Datenschutzgesetze.**
 
-    - :dart: Kennt wesentliche Unterschiede in den Datenschutzgesetzen der
-      verschiedenen Rechtsräume.
+   - :dart: Kennt wesentliche Unterschiede in den Datenschutzgesetzen der
+     verschiedenen Rechtsräume.
 
-3. **Zeigt Konsequenzen von Fehlern im Datenschutz und bei der Datensicherheit auf.**
+3. **Zeigt Konsequenzen von Fehlern im Datenschutz und bei der Datensicherheit
+   auf.**
 
-    - :dart: Kennt die Problematik von Datenlöschungen über alle Archive und
-      Backups.
+   - :dart: Kennt die Problematik von Datenlöschungen über alle Archive und
+     Backups.
 
 ## :compass: Wegweiser
 
@@ -53,7 +54,7 @@ diese für uns als Informatiker.
 </details>
 
 <details>
-  <summary> ℹ️ Quellen für die Recherche</summary>
+  <summary>ℹ️  Quellen für die Recherche</summary>
 
 - [**CH EDÖB:** Datenschutz](https://www.edoeb.admin.ch/edoeb/de/home/datenschutz.html)
 
@@ -65,8 +66,9 @@ diese für uns als Informatiker.
 
 - [**CH:** Art. 28-28l Zivilgesetzbuches (ZGB)](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#a28)
 
-- [**KMU CH Admin:** revDSG](https://www.kmu.admin.ch/kmu/de/home/fakten-trends/digitalisierung/datenschutz/neues-datenschutzgesetz-rev-dsg.html)
+- [CH EDÖB: Leitfaden TOM](https://www.edoeb.admin.ch/edoeb/de/home/kurzmeldungen/km2024/23012024_leitfaden_tom.html)
 
 - [**Hostpoint:** Blog](https://www.hostpoint.ch/blog/das-neue-datenschutzgesetz-kommt-2023-was-gilt-es-dabei-zu-beachten/)
 
 </details>
+

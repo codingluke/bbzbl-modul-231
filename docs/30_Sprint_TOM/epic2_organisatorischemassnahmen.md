@@ -2,33 +2,35 @@
 keywords:
   - pdf
 ---
+
 # Organisatorische Massnahmen
 
-OMMMMM....🧘
+## 🎉 Celebration-Criteria
 
-
-## 🎉 Celebration Criteria
-
-  - :dart: Sie kennen Organisatorische Massnahmen zur Umsetztung der Informationssicherheit.
+- :dart: Sie kennen organisatorische Massnahmen zur Umsetztung der
+  Informationssicherheit.
 
 ## :compass: Wegweiser
 
 <details>
   <summary> 🤔 Leitfragen </summary>
 
-- Welche Organisatorische Massnahmen gibt es ?
+- Welche organisatorischen Massnahmen gibt es?
   - Beschreiben sie einige davon
-- Welche Organisatorische Massnahmen kennen sie von ihrem Betrieb?
-- Wie verbessern Organisatorische Massnahmen die IT Sicherheit?
-- Wo spielen Organisatorische und Technische Massnahmen zusammen?
+- Welche organisatorischen Massnahmen kennen sie von ihrem Betrieb?
+- Wie verbessern organisatorische Massnahmen die IT-Sicherheit?
+- Wo spielen organisatorische und technische Massnahmen zusammen?
 - Welche Gefahren gibt es?
-  - Beschreiben sie einige davon
--...
+  - Beschreiben Sie einige davon ...
 
 </details>
 
 <details>
   <summary> ℹ️ Quellen für die Recherche </summary>
+
+- [CH EDÖB: Leitfaden TOM](https://www.edoeb.admin.ch/edoeb/de/home/kurzmeldungen/km2024/23012024_leitfaden_tom.html)
+
+- [**KMU CH Admin:** revDSG](https://www.kmu.admin.ch/kmu/de/home/fakten-trends/digitalisierung/datenschutz/neues-datenschutzgesetz-rev-dsg.html)
 
 - [**Swiss Infosec:** Technische und organisatorische Massnahmen (TOM)](https://www.infosec.ch/beratung/datenschutz/technische-und-organisatorische-massnahmen-tom/)
 
@@ -37,3 +39,4 @@ OMMMMM....🧘
 - [**Swisscom:** 10 Tipps, wie sich KMU vor Cyberattacken schützen](https://www.swisscom.ch/de/b2bmag/sicherheit/it-security-strategie-kmu/)
 
 </details>
+
