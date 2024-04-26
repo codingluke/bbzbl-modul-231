@@ -121,3 +121,7 @@ footer: BBZBL / Lukas Hodel / Datenschutz und Datensicherheit anwenden
 ![bg w:60%](./images/how_eduScrum_works.png)
 
 ---
+
+# :pencil: Gruppen Bilden
+
+1. 
