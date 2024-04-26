@@ -55,7 +55,7 @@ diese für uns als Informatiker.
 <details>
   <summary> ℹ️ Quellen für die Recherche</summary>
 
-- [**CH EDÖB:** Datenschutz](https://www.edoeb.admin.ch/edoeb/de/home/datenschutz/ueberblick/datenschutz.html)
+- [**CH EDÖB:** Datenschutz](https://www.edoeb.admin.ch/edoeb/de/home/datenschutz.html)
 
 - [**CH:** DSG](https://www.fedlex.admin.ch/eli/fga/2020/1998/de)
 
