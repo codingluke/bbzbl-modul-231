@@ -9,12 +9,16 @@ Wer darf was machen?
 
 ## 🎉 Celebration Criteria
 
-1. **Überprüft und verbessert gegebenenfalls die Datensicherheit der eigenen Infrastruktur.**
+1. **Überprüft und verbessert gegebenenfalls die Datensicherheit der eigenen
+   Infrastruktur.**
 
-- :dart: Kennt Techniken des Zugriffsschutzes, Passwortmanager und Prinzipien der Passwortverwaltung. 
-- :dart: Sie wissen was ein "sicheres Passwort" ausmacht. - Sie kennen alternativen und ergänzungen zu Passwörter.
-- :dart: Sie kennen die Limitationen von Passwörter und MFA. - Sie kennen die Grundlagen von RBAC. 
-- :dart: Sie wissen wo RBAC in IAM Einzuordnen ist. 
+- :dart: Kennt Techniken des Zugriffsschutzes, Passwortmanager und Prinzipien
+  der Passwortverwaltung.
+- :dart: Sie wissen was ein "sicheres Passwort" ausmacht. - Sie kennen
+  alternativen und ergänzungen zu Passwörter.
+- :dart: Sie kennen die Limitationen von Passwörter und MFA. - Sie kennen die
+  Grundlagen von RBAC.
+- :dart: Sie wissen wo RBAC in IAM Einzuordnen ist.
 - :dart: Sie wissen was Least Privileged Access (LPA) ist.
 - :dart: Kennt den Unterschied von Authentifizierung und Autorisierung.
 
@@ -30,7 +34,8 @@ Wer darf was machen?
 - Was ist Autorisierung?
 - Was ist ein Sicher Passwort ?
 - Was ist sind die grenzen von Passwörter?
-- Welche Modernen Auth Methoden gibt es? (MFA, Passkey, Biometrische Daten, etc..)
+- Welche Modernen Auth Methoden gibt es? (MFA, Passkey, Biometrische Daten,
+  etc..)
 - Wie kann ein Passwort sicher Aufbewahrt werden?
 - Wie sieht das mit Post Quanten Kryptographie aus?
 - Was ist Least Privileged Access (LPA)?
@@ -70,3 +75,4 @@ Wer darf was machen?
 - [**microsoft:** Azure Role-Based Access Control, Azure RBAC)?](https://learn.microsoft.com/de-de/azure/role-based-access-control/overview)
 
 </details>
+

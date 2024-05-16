@@ -9,8 +9,8 @@ Was ist Sicherheit und Risiko?
 
 ## 🎉 Celebration Criteria
 
-  - :dart: Sie kennen die Unterschiede zwischen Security und Safety.
-  - :dart: Sie kennen die Grundlagen vom Risikomanagement.
+- :dart: Sie kennen die Unterschiede zwischen Security und Safety.
+- :dart: Sie kennen die Grundlagen vom Risikomanagement.
 
 ## :compass: Wegweiser
 
@@ -24,8 +24,7 @@ Was ist Sicherheit und Risiko?
 - Wie kann es erhoben werden?
 - Wie kann es gewichtet werden?
 - Wie kann man es minderen?
-- Wann ist es akzeptable?
--...
+- Wann ist es akzeptable? -...
 
 </details>
 
@@ -40,12 +39,14 @@ Was ist Sicherheit und Risiko?
 
 </details>
 
-___
+---
+
 ## Sicherheit
 
 ### Was ist Sicherheit?
 
-> «Sicherheit bezeichnet einen Zustand, der frei von  unvertretbaren Risiken der Beeinträchtigung ist oder als gefahrenfrei angesehen wird.»
+> «Sicherheit bezeichnet einen Zustand, der frei von unvertretbaren Risiken der
+> Beeinträchtigung ist oder als gefahrenfrei angesehen wird.»
 
 (DIN EN 61508)
 
@@ -53,48 +54,51 @@ ___
 
 **Safety**
 
-Primäres Schutzziel =  Lebewesen
+Primäres Schutzziel = Lebewesen
 
 **Security**
 
-Primäres Schutzziel =  Objekte
-
+Primäres Schutzziel = Objekte
 
 ## Risiko
-Das Risiko ist ein Mass für die Grösse einer Gefährdung und beinhaltet die Häufigkeit bzw. Wahrscheinlichkeit und das Schadensausmass eines unerwünschten Ereignisses.
 
-- Eintrittswahrscheinlichkeit (auch Schadenswahrscheinlichkeit, Schadenshäufigkeit)
+Das Risiko ist ein Mass für die Grösse einer Gefährdung und beinhaltet die
+Häufigkeit bzw. Wahrscheinlichkeit und das Schadensausmass eines unerwünschten
+Ereignisses.
+
+- Eintrittswahrscheinlichkeit (auch Schadenswahrscheinlichkeit,
+  Schadenshäufigkeit)
 - Schadenspotenzial, Schadensausmass
 
-Eintrittswahrscheinlichkeit * Schadensausmass = Risiko
-
+Eintrittswahrscheinlichkeit \* Schadensausmass = Risiko
 
 [![Risiko](../img/arbeitsplatz-risikomatrix-nohl-schadensausmass-eintrittwahrscheinlichkeit.jpg)](https://www.uvex-safety.com/blog/de/risikomatrix-nach-nohl-so-ermitteln-sie-in-7-schritten-wie-gefaehrlich-ein-job-wirklich-ist/)
 
 ### Eintrittshäufigkeit
 
-| Eintrittshäufigkeit | Beschreibung                     |
-| :------------- | :-------------------------------------------- |
-| selten | Ereignis könnte nach heutigem Kenntnisstand höchstens alle 5 Jahre eintreten. |
-| mittel | Ereignis tritt einmal alle fünf Jahre bis einmal im Jahr ein. |
-| häufig | Ereignis tritt einmal im Jahr bis einmal pro Monat ein. |
-| sehr häufig | Ereignis tritt mehrmals im Monat ein. |
+| Eintrittshäufigkeit | Beschreibung                                                                  |
+| :------------------ | :---------------------------------------------------------------------------- |
+| selten              | Ereignis könnte nach heutigem Kenntnisstand höchstens alle 5 Jahre eintreten. |
+| mittel              | Ereignis tritt einmal alle fünf Jahre bis einmal im Jahr ein.                 |
+| häufig              | Ereignis tritt einmal im Jahr bis einmal pro Monat ein.                       |
+| sehr häufig         |  Ereignis tritt mehrmals im Monat ein.                                        |
 
 ### Schadenshöhe
 
-| Schadenshöhe | Schadensauswirkungen                     |
-| :------------- | :-------------------------------------------- |
-| vernachlässigbar | Die Schadensauswirkungen sind gering und können vernachlässigt werden.  |
-| begrenzt | Die Schadensauswirkungen sind begrenzt und überschaubar |
-| beträchtlich | Die Schadensauswirkungen können beträchtlich sein.  |
-| existenzbedrohend | Die Schadensauswirkungen können ein existenziell bedrohliches, katastrophales Ausmass erreichen.  |
+| Schadenshöhe      | Schadensauswirkungen                                                                              |
+| :---------------- | :------------------------------------------------------------------------------------------------ |
+| vernachlässigbar  | Die Schadensauswirkungen sind gering und können vernachlässigt werden.                            |
+| begrenzt          | Die Schadensauswirkungen sind begrenzt und überschaubar                                           |
+| beträchtlich      | Die Schadensauswirkungen können beträchtlich sein.                                                |
+| existenzbedrohend |  Die Schadensauswirkungen können ein existenziell bedrohliches, katastrophales Ausmass erreichen. |
 
 [![Risiko nach BSI](../img/Risikobewertungnachbsi.jpg)](https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Grundschutz/BSI_Standards/standard_200_3.pdf?__blob=publicationFile&v=2)
 
 ### Risikokategorien
-| Risikokategorien | Beschreibung                     |
-| :------------- | :-------------------------------------------- |
-| gering  | Die bereits umgesetzten oder zumindest im Sicherheitskonzept vorgesehenen Sicherheitsmaßnahmen bieten einen ausreichenden Schutz. In der Praxis ist es üblich, geringe Risiken zu akzeptieren und die Gefährdung dennoch zu beobachten.   |
-| mittel  | Die bereits umgesetzten oder zumindest im Sicherheitskonzept vorgesehenen Sicherheitsmaßnahmen reichen möglicherweise nicht aus.  |
-| hoch  | Die bereits umgesetzten oder zumindest im Sicherheitskonzept vorgesehenen Sicherheitsmaßnahmen bieten keinen ausreichenden Schutz vor der jeweiligen Gefährdung.   |
-| sehr hoch | Die bereits umgesetzten oder zumindest im Sicherheitskonzept vorgesehenen Sicherheitsmaßnahmen bieten keinen ausreichenden Schutz vor der jeweiligen Gefährdung. In der Praxis werden sehr hohe Risiken selten akzeptiert.   |
+
+| Risikokategorien | Beschreibung                                                                                                                                                                                                                            |
+| :--------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| gering           | Die bereits umgesetzten oder zumindest im Sicherheitskonzept vorgesehenen Sicherheitsmaßnahmen bieten einen ausreichenden Schutz. In der Praxis ist es üblich, geringe Risiken zu akzeptieren und die Gefährdung dennoch zu beobachten. |
+| mittel           | Die bereits umgesetzten oder zumindest im Sicherheitskonzept vorgesehenen Sicherheitsmaßnahmen reichen möglicherweise nicht aus.                                                                                                        |
+| hoch             | Die bereits umgesetzten oder zumindest im Sicherheitskonzept vorgesehenen Sicherheitsmaßnahmen bieten keinen ausreichenden Schutz vor der jeweiligen Gefährdung.                                                                        |
+| sehr hoch        |  Die bereits umgesetzten oder zumindest im Sicherheitskonzept vorgesehenen Sicherheitsmaßnahmen bieten keinen ausreichenden Schutz vor der jeweiligen Gefährdung. In der Praxis werden sehr hohe Risiken selten akzeptiert.             |

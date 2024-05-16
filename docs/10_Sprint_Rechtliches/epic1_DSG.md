@@ -38,7 +38,6 @@ diese für uns als Informatiker.
 - Welche Daten sind geschützt?
 - Was sind besonders schützenswerte Daten?
 - Was muss bei besonders schützenswerten Daten beachte werden?
-- Was ist eine Datensammlung?
 - Welche Rechte hat eine betroffene Person?
 - Wie kann ich als betroffene Person gebrauch vom Gesetzt machen?
 - Welche Pflichten hat eine Firma oder öffentliche Institution?
@@ -60,15 +59,16 @@ diese für uns als Informatiker.
 
 - [**CH:** DSG](https://www.fedlex.admin.ch/eli/fga/2020/1998/de)
 
+- [Neues DSG Unterschiede](https://www.rosenthal.ch/downloads/Rosenthal-revidiertesDSG.pdf)
+
 - [**CH:** Art. 13 der Bundesverfassung](https://www.fedlex.admin.ch/eli/cc/1999/404/de#a13)
 
 - [**CH:** Verordnung zum Bundesgesetz über den Datenschutz](https://www.fedlex.admin.ch/eli/cc/1993/1962_1962_1962/de)
 
 - [**CH:** Art. 28-28l Zivilgesetzbuches (ZGB)](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#a28)
 
-- [CH EDÖB: Leitfaden TOM](https://www.edoeb.admin.ch/edoeb/de/home/kurzmeldungen/km2024/23012024_leitfaden_tom.html)
+- [**CH: ** EDÖB: Leitfaden TOM](https://www.edoeb.admin.ch/edoeb/de/home/kurzmeldungen/km2024/23012024_leitfaden_tom.html)
 
 - [**Hostpoint:** Blog](https://www.hostpoint.ch/blog/das-neue-datenschutzgesetz-kommt-2023-was-gilt-es-dabei-zu-beachten/)
 
 </details>
-

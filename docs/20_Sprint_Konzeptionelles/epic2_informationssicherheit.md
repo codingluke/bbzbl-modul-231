@@ -9,8 +9,8 @@ Was ist Informationssicherheit ?
 
 ## 🎉 Celebration Criteria
 
-  - :dart: Sie kennen die unterschiedlichen Arten von Informationen.
-  - :dart: Sie kennen die Grundlage vom Informationssicherheit.
+- :dart: Sie kennen die unterschiedlichen Arten von Informationen.
+- :dart: Sie kennen die Grundlage vom Informationssicherheit.
 
 ## :compass: Wegweiser
 
