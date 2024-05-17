@@ -45,6 +45,7 @@ Was braucht eine Webseite?
 - [**cyon:** Websites: Wer benötigt ein Impressum und was muss darin stehen?](https://www.cyon.ch/blog/Impressum-Websites)
 - [**beobachter.ch:** EIGENE WEBSITE ERSTELLEN: Das müssen Sie rechtlich beachten](https://www.beobachter.ch/digital/multimedia/eigene-website-erstellen-das-mussen-sie-rechtlich-beachten)
 - [**beobachter.ch:** AGB](https://www.beobachter.ch/rechtslexikon/allgemeine-geschaftsbedingungen)
+- [**lexwiki.ch**: AGB](https://www.lexwiki.ch/agb/)
 - [**weka:** Impressumspflicht Schweiz: So erstellen Sie rechtssichere Websites](https://www.weka.ch/themen/marketing-verkauf/online-marketing/e-commerce/article/impressumspflicht-schweiz-so-erstellen-sie-rechtssichere-websites/)
 - [**020webdesign.ch:** Checkliste zur rechtlich sicheren Website in der Schweiz](https://8020webdesign.ch/checkliste-rechtlich-sichere-website-schweiz/)
 

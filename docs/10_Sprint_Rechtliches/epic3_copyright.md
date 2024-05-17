@@ -38,15 +38,11 @@ Was ist ein Urheberrecht?
   <summary>ℹ️ Quellen für die Recherche</summary>
 
 - [**URG:** Urheberrechtsgesetz](https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de)
-
 - [**IGE:** Urheberrecht – was ist das?](https://www.ige.ch/de/etwas-schuetzen/urheberrecht/grundlegendes)
-
 - [**IGE:** Wie darf ich eine Fotografie nutzen?](https://www.ige.ch/de/etwas-schuetzen/urheberrecht/ein-werk-nutzen/fotografienschutz)
-
 - [**IGE:** Verwertungsgesellschaften](https://www.ige.ch/de/etwas-schuetzen/urheberrecht/verwertungsgesellschaften)
-
+- [**lexwiki.ch**: Werke](https://www.lexwiki.ch/werke/)
 - [**Creative Commons:** Was ist Creative Commons?](http://www.creativecommons.ch/wie-funktionierts/)
-
 - [**ADMIN:** Umgang mit Fotos](https://www.edoeb.admin.ch/edoeb/de/home/datenschutz/internet_technologie/umgang-fotos.html)
 
 </details>
