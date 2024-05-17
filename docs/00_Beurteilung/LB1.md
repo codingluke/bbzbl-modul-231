@@ -54,7 +54,7 @@ eine **längere Zeitspanne** dokumentiert.
 
 ## Bewertungskriterien
 
-### 1. Vollständiger
+### 1. Vollständig
 
 - Einträge zum Sprint 1
 - Einträge zum Sprint 2
