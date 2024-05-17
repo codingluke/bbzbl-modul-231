@@ -35,32 +35,24 @@ Was ist eine Lizenz?
 
 **Allgemein**
 
-- [**Business Systemhaus AG:** Was ist eine Lizenz?](https://bsh-ag.de/it-wissensdatenbank/lizenz/)
 - [**Digilaw**: Lizenzvertrag](https://digilaw.ch/lizenzvertrag/)
-- [Urheberrechte Übertragen](https://www.ige.ch/de/etwas-schuetzen/urheberrecht/ein-werk-schuetzen/urheberrechte-uebertragen)
+- [**IGE:** Urheberrechte Übertragen](https://www.ige.ch/de/etwas-schuetzen/urheberrecht/ein-werk-schuetzen/urheberrechte-uebertragen)
+- [**Business Systemhaus AG:** Was ist eine Lizenz?](https://bsh-ag.de/it-wissensdatenbank/lizenz/)
 
 **Bilder**
 
 - [**Schweizerische Kriminalprävention:** Das eigene Bild](https://www.skppsc.ch/de/wp-content/uploads/sites/2/2016/12/rechteigenesbild.pdf)
-
 - [**ifolor:** Bildrechte in der Schweiz](https://www.ifolor.ch/inspirationen/bildrechte-der-schweiz)
-
 - [**VERTRAGSHILFE:** Das Recht am eigenen Bild in der Schweiz](https://www.vertragshilfe.ch/recht-am-eigenen-bild/)
-
 - [**beobachter:** Jedes Foto ist geschützt](https://www.beobachter.ch/gesetze-recht/schweizer-urheberrecht-wie-sind-fotos-videos-und-andere-kunstlerische-werke-geschutzt-39499)
-
 - [**IGE:** Wie darf ich eine Fotografie nutzen?](https://www.ige.ch/de/etwas-schuetzen/urheberrecht/ein-werk-nutzen/fotografienschutz)
-
 - [**Creative Commons:** Was ist Creative Commons?](http://www.creativecommons.ch/wie-funktionierts/)
 
 **Software**
 
 - [**Thales:** Software-Lizenzmodelle](https://cpl.thalesgroup.com/de/software-monetization/software-license-models)
-
 - [**Institut für Rechtsfragen der Freien und Open Source Software:** Welches sind die wichtigsten Open Source Lizenzen und welchem Lizenztyp gehören sie an?](https://www.ifross.org/welches-sind-wichtigsten-open-source-lizenzen-und-welchem-lizenztyp-gehoeren-sie)
-
 - [**BREKOM:** Softwarelizenz](https://www.computerweekly.com/de/definition/Softwarelizenz)
-
 - [**Rentsch Partner AG:** Schutz Software](https://www.rentschpartner.ch/ict-law/schutz-von-software)
 
 </details>
