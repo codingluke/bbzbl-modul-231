@@ -33,17 +33,17 @@ diese für uns als Informatiker.
   <summary> 🤔 Leitfragen </summary>
 
 - Wer muss sich an das Gesetz halten?
-- Wer ist unter dem Gesetzt geschützt?
+- Wer ist unter dem Gesetz geschützt?
 - Was ist ein Juristisch respektive Natürliche Person?
 - Welche Daten sind geschützt?
 - Was sind besonders schützenswerte Daten?
 - Was muss bei besonders schützenswerten Daten beachte werden?
 - Welche Rechte hat eine betroffene Person?
-- Wie kann ich als betroffene Person gebrauch vom Gesetzt machen?
+- Wie kann ich als betroffene Person gebrauch vom Gesetz machen?
 - Welche Pflichten hat eine Firma oder öffentliche Institution?
 - Was sind die Konsequenzen von Verstössen?
 - Was sind die Unterschiede der Gesetzte?
-- Was bedeute das Gesetzt für euch als Mitarbeiter, IT-Mitarbeiter respektive
+- Was bedeute das Gesetz für euch als Mitarbeiter, IT-Mitarbeiter respektive
   Entwickler?
 - Was ist privacy by design und privacy by default?
 - Was bedeute das Gesetz bei der Evaluation von Anwendungen?
