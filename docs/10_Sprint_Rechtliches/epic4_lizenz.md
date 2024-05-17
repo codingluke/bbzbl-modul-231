@@ -9,9 +9,10 @@ Was ist eine Lizenz?
 
 ## 🎉 Celebration Criteria
 
-1. **Wählt Software für die Einhaltung von Datenschutz und Datensicherheit aufgrund der Lizenzmodelle aus.**
+1. **Wählt Software für die Einhaltung von Datenschutz und Datensicherheit
+   aufgrund der Lizenzmodelle aus.**
 
-    - :dart: Kennt verschiedene Lizenzmodelle (z.B. für Software, Texte, Bilder).
+   - :dart: Kennt verschiedene Lizenzmodelle (z.B. für Software, Texte, Bilder).
 
 ## :compass: Wegweiser
 
@@ -35,6 +36,8 @@ Was ist eine Lizenz?
 **Allgemein**
 
 - [**Business Systemhaus AG:** Was ist eine Lizenz?](https://bsh-ag.de/it-wissensdatenbank/lizenz/)
+- [**Digilaw**: Lizenzvertrag](https://digilaw.ch/lizenzvertrag/)
+- [Urheberrechte Übertragen](https://www.ige.ch/de/etwas-schuetzen/urheberrecht/ein-werk-schuetzen/urheberrechte-uebertragen)
 
 **Bilder**
 
@@ -61,3 +64,4 @@ Was ist eine Lizenz?
 - [**Rentsch Partner AG:** Schutz Software](https://www.rentschpartner.ch/ict-law/schutz-von-software)
 
 </details>
+
