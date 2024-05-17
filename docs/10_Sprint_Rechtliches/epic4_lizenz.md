@@ -50,10 +50,9 @@ Was ist eine Lizenz?
 
 **Software**
 
+- [**Snyk:** Was ist eine Softwarelizenz?](https://snyk.io/de/learn/what-is-a-software-license/#types)
 - [**Thales:** Software-Lizenzmodelle](https://cpl.thalesgroup.com/de/software-monetization/software-license-models)
-- [**Institut für Rechtsfragen der Freien und Open Source Software:** Welches sind die wichtigsten Open Source Lizenzen und welchem Lizenztyp gehören sie an?](https://www.ifross.org/welches-sind-wichtigsten-open-source-lizenzen-und-welchem-lizenztyp-gehoeren-sie)
-- [**BREKOM:** Softwarelizenz](https://www.computerweekly.com/de/definition/Softwarelizenz)
-- [**Rentsch Partner AG:** Schutz Software](https://www.rentschpartner.ch/ict-law/schutz-von-software)
+- [**Beobachter:** Piraterie](https://www.beobachter.ch/konsum/illegale-software-softwarepiraten-wie-du-und-ich-0)
 
 </details>
 
