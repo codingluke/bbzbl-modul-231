@@ -5,7 +5,7 @@ keywords:
 
 # EU DSGVO
 
-Welche Gesetzte gibt es in der EU zum Thema Datenschutz und was beeuten diese
+Welche Gesetze gibt es in der EU zum Thema Datenschutz und was beeuten diese
 für uns als Informatiker.
 
 ## 🎉 Celebration Criteria
@@ -43,7 +43,7 @@ für uns als Informatiker.
 - Wie kann ich als betroffene Person gebrauch vom Gesetz machen?
 - Welche Pflichten hat eine Firma oder öffentliche Institution?
 - Was sind die Konsequenzen von Verstössen?
-- Was sind die Unterschiede der Gesetzte?
+- Was sind die Unterschiede der Gesetze?
 - Was bedeute das Gesetz für euch als Mitarbeiter, IT-Mitarbeiter respektive
   Entwickler?
 - Was ist privacy by design und privacy by default?

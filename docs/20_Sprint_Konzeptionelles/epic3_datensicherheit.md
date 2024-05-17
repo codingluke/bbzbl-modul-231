@@ -81,7 +81,7 @@ Jegliche Daten gegen mögliche Bedrohungen zu Schützen und so die 3 Schutzziele
 
 **Datenschutz**
 
-- Gesetzte zum Schutz von personenbezogen Daten
+- Gesetze zum Schutz von personenbezogen Daten
 - Vorschriften zum Schutz von personenbezogen Daten
 - "Legislative" (gesetzgebende Gewalt, Gesetzgebung)
 
