@@ -27,7 +27,7 @@ Was ist ein Urheberrecht?
 - Was ist ein Werk?
 - Welche Institutionen gibt es in der Schweiz die einen unterstützen können?
 - Ist Code Urheberrecht Geschütz und wenn ja, wie?
-- Wie kann man sich bei einer Verletzung wären?
+- Wie kann man sich bei einer Verletzung wehren?
 - Wie sieht das z.B. mit dem Recht am Eigenbild aus?
 - Was gibt es für Möglichkeiten seine Werke als Geschütz zu kennzeichnen?
 - ...
