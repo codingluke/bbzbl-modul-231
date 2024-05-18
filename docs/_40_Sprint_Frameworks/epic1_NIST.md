@@ -2,13 +2,17 @@
 keywords:
   - pdf
 ---
+
 # NIST
+
 :::note
+
 Was ist NIST?
+
 :::
 
 <details>
-  <summary> 🎉 Celebration Criteria</summary>
+  <summary>🎉 Celebration Criteria</summary>
 
 Sie kennen die Grundbausteine von NIST.
 
@@ -19,9 +23,8 @@ Sie kennen Stärken und Schwechen des Frameworks.
 </details>
 
 <details>
-  <summary> 🤫 Quellen für die Uninspierierten</summary>
+  <summary>🤫 Quellen für die Uninspierierten</summary>
 
-- [**NIST** ](https://www.nist.gov/cyberframework)
+- [**NIST**](https://www.nist.gov/cyberframework)
 
 </details>
-

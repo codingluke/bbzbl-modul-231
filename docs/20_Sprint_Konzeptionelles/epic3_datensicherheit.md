@@ -140,4 +140,3 @@ Jegliche Daten gegen mögliche Bedrohungen zu Schützen und so die 3 Schutzziele
 | sehr hoch       | Die Schadensauswirkungen können ein existenziell bedrohliches, katastrophales Ausmass erreichen. |
 
 [**Klassifizierung nach BSI** ab Seite 104](https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Grundschutz/BSI_Standards/standard_200_2.pdf?__blob=publicationFile&v=2)
-

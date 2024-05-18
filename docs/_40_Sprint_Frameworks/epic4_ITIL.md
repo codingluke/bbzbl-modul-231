@@ -2,9 +2,13 @@
 keywords:
   - pdf
 ---
+
 # ITIL
+
 :::note
+
 Was ist ITIL?
+
 :::
 
 <details>
@@ -19,8 +23,9 @@ Sie kennen Stärken und Schwechen des Frameworks.
 </details>
 
 <details>
-  <summary> 🤫 Quellen für die Uninspierierten</summary>
+  <summary>🤫 Quellen für die Uninspierierten</summary>
 
 - [**ITIL Video**](https://www.youtube.com/watch?v=oMneceb71N0)
 
 </details>
+
