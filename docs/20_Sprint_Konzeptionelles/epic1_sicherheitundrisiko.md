@@ -32,9 +32,7 @@ Was ist Sicherheit und Risiko?
   <summary> ℹ️ Quellen für die Recherche</summary>
 
 - [**Sichere Industrie:** Safety vs. Security...](https://www.sichere-industrie.de/safety-security-unterschied-erklaert-kombination-ziele-industrial-security/)
-
 - [**CH Admin:** Risikomanagement](https://www.kmu.admin.ch/kmu/de/home/praktisches-wissen/finanzielles/risikomanagement.html)
-
 - [**CH Admin:** Risikoidentifikation und Risikobewertung](https://www.kmu.admin.ch/kmu/de/home/praktisches-wissen/finanzielles/risikomanagement/wie-fuehrt-man-ein-risikomanagementsystem-ein/risikoidentifikation-und-risikobewertung.html)
 
 </details>
@@ -52,11 +50,11 @@ Was ist Sicherheit und Risiko?
 
 ### Was ist der Unterschied zwischen Security und Safety?
 
-**Safety**
+#### **Safety**
 
 Primäres Schutzziel = Lebewesen
 
-**Security**
+#### **Security**
 
 Primäres Schutzziel = Objekte
 
@@ -70,7 +68,7 @@ Ereignisses.
   Schadenshäufigkeit)
 - Schadenspotenzial, Schadensausmass
 
-Eintrittswahrscheinlichkeit \* Schadensausmass = Risiko
+`Eintrittswahrscheinlichkeit \* Schadensausmass = Risiko`
 
 [![Risiko](../img/arbeitsplatz-risikomatrix-nohl-schadensausmass-eintrittwahrscheinlichkeit.jpg)](https://www.uvex-safety.com/blog/de/risikomatrix-nach-nohl-so-ermitteln-sie-in-7-schritten-wie-gefaehrlich-ein-job-wirklich-ist/)
 
@@ -78,19 +76,19 @@ Eintrittswahrscheinlichkeit \* Schadensausmass = Risiko
 
 | Eintrittshäufigkeit | Beschreibung                                                                  |
 | :------------------ | :---------------------------------------------------------------------------- |
-| selten              | Ereignis könnte nach heutigem Kenntnisstand höchstens alle 5 Jahre eintreten. |
-| mittel              | Ereignis tritt einmal alle fünf Jahre bis einmal im Jahr ein.                 |
-| häufig              | Ereignis tritt einmal im Jahr bis einmal pro Monat ein.                       |
-| sehr häufig         | Ereignis tritt mehrmals im Monat ein.                                        |
+| **selten**          | Ereignis könnte nach heutigem Kenntnisstand höchstens alle 5 Jahre eintreten. |
+| **mittel**          | Ereignis tritt einmal alle fünf Jahre bis einmal im Jahr ein.                 |
+| **häufig**          | Ereignis tritt einmal im Jahr bis einmal pro Monat ein.                       |
+| **sehr häufig**     | Ereignis tritt mehrmals im Monat ein.                                         |
 
 ### Schadenshöhe
 
-| Schadenshöhe      | Schadensauswirkungen                                                                              |
-| :---------------- | :------------------------------------------------------------------------------------------------ |
-| vernachlässigbar  | Die Schadensauswirkungen sind gering und können vernachlässigt werden.                            |
-| begrenzt          | Die Schadensauswirkungen sind begrenzt und überschaubar                                           |
-| beträchtlich      | Die Schadensauswirkungen können beträchtlich sein.                                                |
-| existenzbedrohend | Die Schadensauswirkungen können ein existenziell bedrohliches, katastrophales Ausmass erreichen. |
+| Schadenshöhe          | Schadensauswirkungen                                                                             |
+| :-------------------- | :----------------------------------------------------------------------------------------------- |
+| **vernachlässigbar**  | Die Schadensauswirkungen sind gering und können vernachlässigt werden.                           |
+| **begrenzt**          | Die Schadensauswirkungen sind begrenzt und überschaubar                                          |
+| **beträchtlich**      | Die Schadensauswirkungen können beträchtlich sein.                                               |
+| **existenzbedrohend** | Die Schadensauswirkungen können ein existenziell bedrohliches, katastrophales Ausmass erreichen. |
 
 [![Risiko nach BSI](../img/Risikobewertungnachbsi.jpg)](https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Grundschutz/BSI_Standards/standard_200_3.pdf?__blob=publicationFile&v=2)
 
@@ -98,7 +96,7 @@ Eintrittswahrscheinlichkeit \* Schadensausmass = Risiko
 
 | Risikokategorien | Beschreibung                                                                                                                                                                                                                            |
 | :--------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| gering           | Die bereits umgesetzten oder zumindest im Sicherheitskonzept vorgesehenen Sicherheitsmaßnahmen bieten einen ausreichenden Schutz. In der Praxis ist es üblich, geringe Risiken zu akzeptieren und die Gefährdung dennoch zu beobachten. |
-| mittel           | Die bereits umgesetzten oder zumindest im Sicherheitskonzept vorgesehenen Sicherheitsmaßnahmen reichen möglicherweise nicht aus.                                                                                                        |
-| hoch             | Die bereits umgesetzten oder zumindest im Sicherheitskonzept vorgesehenen Sicherheitsmaßnahmen bieten keinen ausreichenden Schutz vor der jeweiligen Gefährdung.                                                                        |
-| sehr hoch        | Die bereits umgesetzten oder zumindest im Sicherheitskonzept vorgesehenen Sicherheitsmaßnahmen bieten keinen ausreichenden Schutz vor der jeweiligen Gefährdung. In der Praxis werden sehr hohe Risiken selten akzeptiert.              |
+| **gering**       | Die bereits umgesetzten oder zumindest im Sicherheitskonzept vorgesehenen Sicherheitsmaßnahmen bieten einen ausreichenden Schutz. In der Praxis ist es üblich, geringe Risiken zu akzeptieren und die Gefährdung dennoch zu beobachten. |
+| **mittel**       | Die bereits umgesetzten oder zumindest im Sicherheitskonzept vorgesehenen Sicherheitsmaßnahmen reichen möglicherweise nicht aus.                                                                                                        |
+| **hoch**         | Die bereits umgesetzten oder zumindest im Sicherheitskonzept vorgesehenen Sicherheitsmaßnahmen bieten keinen ausreichenden Schutz vor der jeweiligen Gefährdung.                                                                        |
+| **sehr hoch**    | Die bereits umgesetzten oder zumindest im Sicherheitskonzept vorgesehenen Sicherheitsmaßnahmen bieten keinen ausreichenden Schutz vor der jeweiligen Gefährdung. In der Praxis werden sehr hohe Risiken selten akzeptiert.              |

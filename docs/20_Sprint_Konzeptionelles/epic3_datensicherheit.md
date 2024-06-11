@@ -48,44 +48,38 @@ Was ist Datensicherheit?
   <summary> ℹ️ Quellen für die Recherche</summary>
 
 - [**Profi AG** Datensicherheit](https://www.profi-ag.de/netzwerk-und-security/datensicherheit/#:~:text=Definition%3A%20Datensicherheit&text=Datensicherheit%20verfolgt%20also%20das%20Ziel,Sicherheit%20von%20Daten%20zu%20gew%C3%A4hrleisten.)
-
 - [**datenschutz.org:** Datensicherheit: Maßnahmen für den Schutz von Daten](https://www.datenschutz.org/datensicherheit-massnahmen/)
-
 - [**Oracle** Was ist Datensicherheit?](https://www.oracle.com/ch-de/security/database-security/what-is-data-security/)
-
 - [**ISARI CONSULT Stefanie Schmidt:** Risiken im Risikomanagement bewerten und beurteilen](https://isari-consult.de/wissen/risiken-im-risikomanagement-steuern)
-
 - [**NCSC:** Schwachstelle](https://www.ncsc.admin.ch/ncsc/de/home/cyberbedrohungen/schwachstelle.html)
-
 - [**NCSC** Cyberbedrohungen](https://www.ncsc.admin.ch/ncsc/de/home/cyberbedrohungen.html)
-
 - [**BSI-Standard:** 200.2 - Kapitel 8.2 Schutzbedarffestellung](https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Grundschutz/BSI_Standards/standard_200_2.pdf?__blob=publicationFile&v=2)
 
 </details>
 
 ---
 
-## Einstig in Datensicherheit
+## Einstieg in Datensicherheit
 
 ### Was ist Datensicherheit?
 
-- Schutz der Daten egal ob Personenbezogen oder nicht
-- Fokus auf Technischen und Organisatorischen Massnahmen
+- Schutz der Daten egal ob personenbezogen oder nicht
+- Fokus auf Technischen und organisatorischen Massnahmen
 
-### Was ist das Ziel des Datensicherheit?
+### Was ist das Ziel der Datensicherheit?
 
-Jegliche Daten gegen mögliche Bedrohungen zu Schützen und so die 3 Schutzziele
-(CIA) umzusetzten.
+Jegliche Daten gegen mögliche Bedrohungen zu Schützen und so die drei
+Schutzziele (CIA) umzusetzen.
 
 ### Datenschutz vs. Datensicherheit
 
-**Datenschutz**
+#### Datenschutz
 
-- Gesetze zum Schutz von personenbezogen Daten
-- Vorschriften zum Schutz von personenbezogen Daten
+- Gesetze zum Schutz von personenbezogenen Daten
+- Vorschriften zum Schutz von personenbezogenen Daten
 - "Legislative" (gesetzgebende Gewalt, Gesetzgebung)
 
-**Datensicherheit**
+#### **Datensicherheit**
 
 - Massnahmen zum Schutz von Daten (nicht nur personenbezogen Daten)
 - "Exekutive" (vollziehende Gewalt)
@@ -96,13 +90,13 @@ Jegliche Daten gegen mögliche Bedrohungen zu Schützen und so die 3 Schutzziele
 
 ![Begriffe](../img/begriffuebersicht.png)
 
-| Begriff       | Beschreibung                                                                                      |
-| :------------ | :------------------------------------------------------------------------------------------------ |
-| Asset         | Vermögenswert eines Unternehmens                                                                  |
-| Schwachstelle | Schwachstellen (vulnerability, bug)                                                               |
-| Bedrohung     | Ereignis das die Verfügbarkeit, Integrität oder Vertraulichkeit von Informationen beeinträchtigen |
-| Exploit       | Ein Exploit ist das ausnutzen einer Schwachstelle.                                                |
-| Täter         |  Person welche Schwachstelle ausnutzt und so eine Bedrohnung für die Assets darstellt.            |
+| Begriff           | Beschreibung                                                                                      |
+| :---------------- | :------------------------------------------------------------------------------------------------ |
+| **Asset**         | Vermögenswert eines Unternehmens                                                                  |
+| **Schwachstelle** | Schwachstellen (vulnerability, bug)                                                               |
+| **Bedrohung**     | Ereignis das die Verfügbarkeit, Integrität oder Vertraulichkeit von Informationen beeinträchtigen |
+| **Exploit**       | Ein Exploit ist das ausnutzen einer Schwachstelle.                                                |
+| **Täter**         |  Person welche Schwachstelle ausnutzt und so eine Bedrohnung für die Assets darstellt.            |
 
 ## Klassifizierung nach CIA
 
@@ -114,13 +108,13 @@ Jegliche Daten gegen mögliche Bedrohungen zu Schützen und so die 3 Schutzziele
 
 ### Übersicht der Kategorien
 
-| Schutzziel      |            |        |             |                    |
-| :-------------- | :--------- | :----- | :---------- | :----------------- |
-| Vertraulichkeit | Öffentlich | Intern | Vertraulich | Streng Vertraulich |
-| Integrität      |            | normal | hoch        | sehr hoch          |
-| Verfügbarkeit   |            | normal | hoch        | sehr hoch          |
+| Schutzziel      | Mögliche Klassifizierungen                          |
+| :-------------- | :-------------------------------------------------- |
+| Vertraulichkeit | Öffentlich, Intern, Vertraulich, Streng Vertraulich |
+| Integrität      | normal, hoch, sehr hoch                             |
+| Verfügbarkeit   | normal, hoch, sehr hoch                             |
 
-**Vertraulichkeit**
+#### Vertraulichkeit
 
 | Klassifizierung    | Beschreibung                                                                                                                   |
 | :----------------- | :----------------------------------------------------------------------------------------------------------------------------- |
@@ -131,7 +125,7 @@ Jegliche Daten gegen mögliche Bedrohungen zu Schützen und so die 3 Schutzziele
 
 [**www.sec4you.com:** Klassifizierung ISO 27001](https://www.sec4you.com/klassifizierung-iso-27001/)
 
-**Integrität, Verfügbarkeit**
+#### Integrität, Verfügbarkeit
 
 | Klassifizierung | Beschreibung                                                                                     |
 | :-------------- | :----------------------------------------------------------------------------------------------- |

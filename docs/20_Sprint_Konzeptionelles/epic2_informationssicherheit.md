@@ -30,11 +30,8 @@ Was ist Informationssicherheit ?
   <summary> ℹ️ Quellen für die Recherche</summary>
 
 - [**Security Insider:** Was ist Informationssicherheit?](https://www.security-insider.de/was-ist-informationssicherheit-a-677316/)
-
 - [**BREKOM:** Informationssicherheit](https://brekom.de/ratgeber-it-sicherheit/informationssicherheit/)
-
 - [**NCSC:** Bundesinterne Kampagne](https://www.ncsc.admin.ch/ncsc/de/home/dokumentation/bundesinterne-kampagnen.html)
-
 - [**MATRIX IT development Gmbh:** Begriffe und Definitionen](https://www.matrix-development.de/risikomanagement_definition.html)
 
 </details>
