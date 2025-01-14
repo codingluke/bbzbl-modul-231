@@ -5,6 +5,7 @@ import DocCardList from "@theme/DocCardList";
 import Timeline, { Event } from "../components/Timeline/index";
 import Tabs from "@theme/Tabs";
 import TabItem from "@theme/TabItem";
+import Slide from "../components/Slide";
 
 export default {
   // Re-use the default mapping
@@ -16,5 +17,6 @@ export default {
   Timeline: Timeline,
   Event: Event,
   Tabs: Tabs,
-  TabItem: TabItem
+  TabItem: TabItem,
+  Slide: Slide,
 };
