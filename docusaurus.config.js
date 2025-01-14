@@ -35,20 +35,20 @@ const config = {
   },
 
   themes: [
-    [
-      require.resolve("@easyops-cn/docusaurus-search-local"),
-      {
-        hashed: true,
-        language: ["de"],
-        indexBlog: false,
-        indexPages: true,
-      },
-    ],
+    // [
+    //   require.resolve("@easyops-cn/docusaurus-search-local"),
+    //   {
+    //     hashed: true,
+    //     language: ["de"],
+    //     indexBlog: false,
+    //     indexPages: true,
+    //   },
+    // ],
     require.resolve("@docusaurus/theme-mermaid"),
   ],
 
   plugins: [
-    // "@orama/plugin-docusaurus",
+    // "@orama/plugin-docusaurus-v3",
     [
       "devserver-config",
       {
@@ -81,16 +81,9 @@ const config = {
           sidebarPath: require.resolve("./sidebars.js"),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl: `https://github.com/codingluke/${modulConfig.repoName}/tree/main/`,
-          // remarkPlugins: [oembed],
+          editUrl: `${modulConfig.url}/${modulConfig.repoName}`,
+          remarkPlugins: [],
         },
-        // blog: {
-        //   showReadingTime: true,
-        //   // Please change this to your repo.
-        //   // Remove this to remove the "edit this page" links.
-        //   editUrl:
-        //     'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-        // },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
         },
@@ -102,7 +95,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       mermaid: {
-        theme: { light: "neutral", dark: "dark" },
+        theme: { light: "neutral", dark: "forest" },
       },
       navbar: {
         title: modulConfig.title,
@@ -117,14 +110,13 @@ const config = {
             position: "left",
             label: "Unterlagen",
           },
-          //{ to: "/slides/", label: "Präsentationen", position: "left" },
           {
-            to: `${modulConfig.url}/${modulConfig.repoName}/assets/pdf/${modulConfig.repoName}.pdf`,
+            to: `${modulConfig.url}/${modulConfig.repoName}/assets/pdf/${modulConfig.pdfs[0].filename}`,
             label: "PDF Download",
             position: "right",
           },
           {
-            href: `https://github.com/codingluke/${modulConfig.repoName}`,
+            href: `https://gitlab.com/bbzbl-it/${modulConfig.repoName}`,
             label: "GitHub",
             position: "right",
           },
@@ -137,7 +129,7 @@ const config = {
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
-        additionalLanguages: ["java", "bash", "diff", "json"],
+        additionalLanguages: ["java", "bash", "docker"],
         magicComments: [
           // Remember to extend the default highlight class name as well!
           {
