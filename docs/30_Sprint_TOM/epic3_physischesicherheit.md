@@ -16,11 +16,9 @@ Keep your hands out of the cookie jar!!
 <details>
   <summary>🤔 Leitfragen</summary>
 
-- Was sind Physische Massnahmen?
-  - Beschreiben sie einige davon
-- Welche Infrastruktur benötigt z.B. ein Data Center?
+- Was sind physische Massnahmen?
+- Welche Infrastruktur benötigt z.B. ein Data-Center?
 - Welche Gefahren gibt es?
-  - Beschreiben sie einige davon -...
 
 </details>
 

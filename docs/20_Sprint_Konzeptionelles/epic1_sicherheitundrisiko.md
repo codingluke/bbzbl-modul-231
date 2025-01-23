@@ -21,10 +21,11 @@ Was ist Sicherheit und Risiko?
 - Was ist Safety?
 - Was ist der Unterschiede zwischen Security und Safety?
 - Was ist Risiko?
-- Wie kann es erhoben werden?
-- Wie kann es gewichtet werden?
-- Wie kann man es minderen?
-- Wann ist es akzeptable? -...
+- Wie kann Risiko erhoben werden?
+- Wie kann Risiko gewichtet werden?
+- Wie kann Risiko vermindert werden?
+- Wann ist Risiko akzeptabel?
+- ...
 
 </details>
 

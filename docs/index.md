@@ -27,8 +27,7 @@ keywords:
 
 ## Tools
 
-- Modulwebseite
-- [GPT zum Modul](https://chat.openai.com/g/g-h8Zy8qQM7-bbzbl-m231)
-- [Miro Board (Kanban)](https://miro.com/)
+- [Taiga Projektmanagement](https://taiga.io/)
+  - [Taiga Projekt Export](../static/downloads/herrhodel-m319-datenschutz-und-datensicherheit-template-a1203d1f-ba1b-4d02-91c8-6322c5c34d57.json)
 - [Google Sites](https://sites.google.com)
 - [SAL für das Administrative (Absenzen und Noten etc.)](https://portal.sbl.ch/my.policy)

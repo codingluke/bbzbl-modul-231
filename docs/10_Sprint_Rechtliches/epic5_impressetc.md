@@ -31,7 +31,7 @@ Was braucht eine Webseite?
 - Sind Disclaimer Pflicht?
 - Gibt es Limitation bei Disclaimer?
 - Was sind AGBs?
-- Wan sind diese sinnvoll?
+- Wan sind AGBs sinnvoll?
 - Was sollte man in AGBs Regeln?
 - Sind AGBs Pflicht?
 - Gibt es Limitation bei AGBs? -...
