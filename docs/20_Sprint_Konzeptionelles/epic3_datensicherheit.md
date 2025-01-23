@@ -34,7 +34,7 @@ Was ist Datensicherheit?
   <summary> 🤔 Leitfragen </summary>
 
 - Was ist Datensicherheit?
-- Was ist das Ziel des Datensicherheit?
+- Was ist das Ziel der Datensicherheit?
 - Was ist Datenschutz?
 - Datensicherheit vs. Datenschutz?
 - Welche Begriffe gibt es im Kontext?

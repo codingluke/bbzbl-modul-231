@@ -23,8 +23,8 @@ Was ist eine Lizenz?
 - Was ist die Grundlage für die Vergabe einer Lizenz?
 - Was ist eine Lizenz?
 - Welche Arten von Lizenzen gibt es?
-- Was sind Vor-und Nachteile als Kunde bei den Modellen?
-- Was sind Vor-und Nachteile für euch als Entwickler?
+- Was sind Vor- und Nachteile als Kunde bei den Modellen?
+- Was sind Vor- und Nachteile für euch als Entwickler?
 - Wie sieht das mit Piraterie in der Schweiz aus?
 - ...
 

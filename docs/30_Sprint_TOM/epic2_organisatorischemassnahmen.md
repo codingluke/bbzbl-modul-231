@@ -18,8 +18,8 @@ keywords:
 - Welche organisatorischen Massnahmen gibt es?
 - Welche organisatorischen Massnahmen kennen sie von ihrem Betrieb?
 - Wie verbessern organisatorische Massnahmen die IT-Sicherheit?
-- Wo spielen organisatorische und technische Massnahmen zusammen?
 - Welche Gefahren gibt es?
+- Wo spielen organisatorische und technische Massnahmen zusammen?
 
 </details>
 

@@ -19,7 +19,7 @@ Was ist Sicherheit und Risiko?
 
 - Was ist Security?
 - Was ist Safety?
-- Was ist der Unterschiede zwischen Security und Safety?
+- Was ist der Unterschied zwischen Security und Safety?
 - Was ist Risiko?
 - Wie kann Risiko erhoben werden?
 - Wie kann Risiko gewichtet werden?

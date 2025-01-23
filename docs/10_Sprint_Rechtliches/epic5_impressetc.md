@@ -26,15 +26,16 @@ Was braucht eine Webseite?
 - Gibt es eine Impressumspflicht in der Schweiz?
 - Was ist ein Disclaimer?
 - Weshalb und wann ist ein Disclaimer sinnvoll?
-- Für was könne man einen Disclaimer brauchen? (eventuell Bsp. müssen nicht nur
-  aus der IT sein)
+- Für was könne man einen Disclaimer brauchen? (Bsp. müssen nicht nur aus der IT
+  sein)
 - Sind Disclaimer Pflicht?
 - Gibt es Limitation bei Disclaimer?
 - Was sind AGBs?
-- Wan sind AGBs sinnvoll?
+- Wann sind AGBs sinnvoll?
 - Was sollte man in AGBs Regeln?
 - Sind AGBs Pflicht?
-- Gibt es Limitation bei AGBs? -...
+- Gibt es Limitationen bei AGBs?
+- ...
 
 </details>
 
