@@ -39,7 +39,7 @@ diese für uns als Informatiker.
 - Was sind besonders schützenswerte Daten?
 - Was muss bei besonders schützenswerten Daten beachte werden?
 - Welche Rechte hat eine betroffene Person?
-- Wie kann ich als betroffene Person gebrauch vom Gesetz machen?
+- Wie kann ich als betroffene Person Gebrauch vom Gesetz machen?
 - Welche Pflichten hat eine Firma oder öffentliche Institution?
 - Was sind die Konsequenzen von Verstössen?
 - Was sind die Unterschiede der Gesetze?
