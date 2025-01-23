@@ -18,9 +18,8 @@ Who the F\*\*\* is TOM? 🧐
 
 - Welche technischen Massnahmen gibt es?
   - Beschreiben sie einige davon
-- Welche technischen Massnahmen kennen sie von ihrem Betrieb?
+- Welche technischen Massnahmen kennen sie von Ihrem Betrieb?
 - Wie verbessern technische Massnahmen die IT-Sicherheit?
-- Wo spielen organisatorische und organisatorische Massnahmen zusammen?
 - Welche Gefahren gibt es?
   - Beschreiben Sie einige davon
 - ...

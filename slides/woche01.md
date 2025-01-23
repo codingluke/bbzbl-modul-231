@@ -26,7 +26,7 @@ footer: BBZBL / Lukas Hodel / Datenschutz und Datensicherheit anwenden
 
 - eduScrum Einführung
 - Gruppen Bilden
-- ePortfolio und Miroboard einrichten
+- ePortfolio und Taiga einrichten
 
 :::
 
@@ -125,7 +125,7 @@ footer: BBZBL / Lukas Hodel / Datenschutz und Datensicherheit anwenden
 - Es wurden **Gruppen gebildet**
 - Die technische Infrastruktur ist aufgesetzt
   - Google Site oder anderes **ePortfolio**
-  - Miroboard für **Projektmanagement**
+  - Taiga für **Projektmanagement**
 
 ---
 
@@ -162,7 +162,7 @@ footer: BBZBL / Lukas Hodel / Datenschutz und Datensicherheit anwenden
 
    - Berechtigungen verteilen
 
-2. **Miroboard erstellen**
+2. **Taiga einrichten**
 
    - Herumspielen
 

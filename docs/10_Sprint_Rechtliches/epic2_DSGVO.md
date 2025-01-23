@@ -34,21 +34,21 @@ für uns als Informatiker.
 
 - Wer muss sich an das Gesetz halten?
 - Wer ist unter dem Gesetz geschützt?
-- Was ist ein Juristisch respektive Natürliche Person?
+- Was ist eine juristische, respektive natürliche Person?
 - Welche Daten sind geschützt?
 - Was sind besonders schützenswerte Daten?
-- Was muss bei besonders schützenswerten Daten beachte werden?
+- Was muss bei besonders schützenswerten Daten beachtet werden?
 - Was ist eine Datensammlung?
 - Welche Rechte hat eine betroffene Person?
-- Wie kann ich als betroffene Person gebrauch vom Gesetz machen?
+- Wie kann ich als betroffene Person Gebrauch vom Gesetz machen?
 - Welche Pflichten hat eine Firma oder öffentliche Institution?
 - Was sind die Konsequenzen von Verstössen?
 - Was sind die Unterschiede der Gesetze?
 - Was bedeute das Gesetz für euch als Mitarbeiter, IT-Mitarbeiter respektive
   Entwickler?
-- Was ist privacy by design und privacy by default?
+- Was ist privacy-by-design und privacy-by-default?
 - Was bedeute das Gesetz bei der Evaluation von Anwendungen?
-- Was für Problem können bei SAAS (Cloud) Anwendungen entstehen?
+- Was für Probleme können bei SAAS (Cloud) Anwendungen entstehen?
 - ...
 
 </details>

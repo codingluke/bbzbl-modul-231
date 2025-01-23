@@ -16,12 +16,10 @@ keywords:
   <summary> 🤔 Leitfragen </summary>
 
 - Welche organisatorischen Massnahmen gibt es?
-  - Beschreiben sie einige davon
 - Welche organisatorischen Massnahmen kennen sie von ihrem Betrieb?
 - Wie verbessern organisatorische Massnahmen die IT-Sicherheit?
-- Wo spielen organisatorische und technische Massnahmen zusammen?
 - Welche Gefahren gibt es?
-  - Beschreiben Sie einige davon ...
+- Wo spielen organisatorische und technische Massnahmen zusammen?
 
 </details>
 

@@ -19,7 +19,7 @@ Was ist Informationssicherheit ?
 
 - Was sind Informationen?
 - Was ist Sicherheit?
-- Was ist Informationssicherheit? !Nicht nur Digital!
+- Was ist Informationssicherheit? (Nicht nur Digital)
 - Was ist das Ziel von Informationssicherheit (CIA)?
 - Wie kann das Ziel erreicht werden?
 - ...
