@@ -42,6 +42,39 @@ eine **längere Zeitspanne** dokumentiert.
 
 :::
 
+### Lernjournal Fragen pro Woche
+
+1. Das habe ich gemacht
+2. Das habe ich gelernt
+3. Das habe ich nicht geschafft
+4. So fühle ich mich jetzt
+
+:::info
+
+Die Lernjournale dürfen in Stichworten gehalten werden
+
+:::
+
+### Reflexion Fragen pro Sprint
+
+1. Das habe ich gelernt
+2. Das ist für mich im Betrieb wichtig
+3. Das ist für mich persönlich wichtig
+4. Das ist mir gut gelungen
+5. So bin ich vorgegangen, dass es mir gelungen ist
+6. Damit hatte ich Schwierigkeiten
+7. So habe ich auf die Schwierigkeiten reagiert
+8. Ich bin zufrieden/unzufrieden mit meiner Leistung, weil...
+9. So fühle ich mich jetzt
+
+:::info
+
+- Die Reflexion muss pro Person in ganzen Sätzen verfasst werden.
+- Pro Punkt müssen mindesten 4 Sätze geschrieben werden.
+- **Fragen Sie nach dem Wieso!**
+
+:::
+
 ### Vollständigkeit
 
 - Deckt **alle Themen** des Moduls ab.
