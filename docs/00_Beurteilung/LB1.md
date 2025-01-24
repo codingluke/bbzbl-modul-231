@@ -70,8 +70,8 @@ Die Lernjournale dürfen in Stichworten gehalten werden
 :::info
 
 - Die Reflexion muss pro Person in ganzen Sätzen verfasst werden.
-- Pro Punkt müssen mindesten 4 Sätze geschrieben werden.
 - **Fragen Sie nach dem wieso!**
+  - Alles lief super, ist keine Reflexion.
 
 :::
 
