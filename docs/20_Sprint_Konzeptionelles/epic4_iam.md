@@ -31,13 +31,13 @@ Wer darf was machen?
 - Was ist Authentifizierung?
 - Was ist Autorisierung?
 - Was ist ein sicheres Passwort?
-- Was ist sind die Grenzen von Passwörter?
-- Welche modernen Authentifizierungsmethoden gibt es? (MFA, Passkey, Biometrische Daten,
-  etc..)
-- Wie kann ein Passwort sicher Aufbewahrt werden?
-- Wie sieht das mit Post-Quanten-Kryptographie aus?
+- Was sind die Grenzen von Passwörtern?
+- Welche modernen Authentifizierungsmethoden gibt es? (MFA, Passkey,
+  biometrische Daten, etc.)
+- Wie kann ein Passwort sicher aufbewahrt werden?
+- Wie sieht das mit Post-Quanten-Kryptografie aus?
 - Was ist Least-Privileged-Access (LPA)?
-- Was sind gute Grundsätze für eine Berechtigungskonzept?
+- Was sind gute Grundsätze für ein Berechtigungskonzept?
 - Was ist RBAC und wie ist es in IAM Einzuordnen?
 - ...
 

@@ -7,7 +7,7 @@ keywords:
 
 ## 🎉 Celebration-Criteria
 
-- :dart: Sie kennen organisatorische Massnahmen zur Umsetztung der
+- :dart: Sie kennen organisatorische Massnahmen zur Umsetzung der
   Informationssicherheit.
 
 ## :compass: Wegweiser
@@ -33,4 +33,3 @@ keywords:
 - [**Swisscom:** 10 Tipps, wie sich KMU vor Cyberattacken schützen](https://www.swisscom.ch/de/b2bmag/sicherheit/it-security-strategie-kmu/)
 
 </details>
-

@@ -19,7 +19,7 @@ Was ist eine Lizenz?
 <details>
   <summary> 🤔 Leitfragen </summary>
 
-- Was kann man alles Lizenzieren?
+- Was kann man alles lizenzieren?
 - Was ist die Grundlage für die Vergabe einer Lizenz?
 - Was ist eine Lizenz?
 - Welche Arten von Lizenzen gibt es?

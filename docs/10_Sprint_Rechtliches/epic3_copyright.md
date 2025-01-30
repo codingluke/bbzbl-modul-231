@@ -20,16 +20,16 @@ Was ist ein Urheberrecht?
 <details>
   <summary> 🤔 Leitfragen </summary>
 
-- Was ist unter dem Urheberrecht Geschütz?
+- Was ist unter dem Urheberrecht geschützt?
 - Was ist ein Urheber?
 - Wie geht das mit KI weiter?
-- Wie kann ich meine Werke Schützen?
+- Wie kann ich meine Werke schützen?
 - Was ist ein Werk?
 - Welche Institutionen gibt es in der Schweiz die einen unterstützen können?
-- Ist Code urheberrechtlich Geschütz und wenn ja, wie?
+- Ist Code urheberrechtlich geschützt und wenn ja, wie?
 - Wie kann man sich bei einer Verletzung wehren?
 - Wie sieht das z.B. mit dem Recht am Eigenbild aus?
-- Was gibt es für Möglichkeiten seine Werke als Geschütz zu kennzeichnen?
+- Was gibt es für Möglichkeiten, seine Werke als Geschütz zu kennzeichnen?
 - ...
 
 </details>

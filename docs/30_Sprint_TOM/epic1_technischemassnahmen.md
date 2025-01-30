@@ -17,8 +17,8 @@ Who the F\*\*\* is TOM? 🧐
   <summary> 🤔 Leitfragen </summary>
 
 - Welche technischen Massnahmen gibt es?
-  - Beschreiben sie einige davon
-- Welche technischen Massnahmen kennen sie von Ihrem Betrieb?
+  - Beschreiben Sie einige davon
+- Welche technischen Massnahmen kennen Sie von Ihrem Betrieb?
 - Wie verbessern technische Massnahmen die IT-Sicherheit?
 - Welche Gefahren gibt es?
   - Beschreiben Sie einige davon
