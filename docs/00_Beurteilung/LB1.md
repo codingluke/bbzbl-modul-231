@@ -87,32 +87,76 @@ Die Lernjournale dürfen in Stichworten gehalten werden
 
 ## Bewertungskriterien
 
+:::caution Kollektivpunkte!
+
+Mit **Ausnahme vom
+[Punkt 2. Reflexionen / Erkenntnisse](#2-reflexionen--erkenntnisse)**, werden
+die Punkte kollektiv, für die gesamte Gruppe, vergeben. Kontrollieren Sie sich
+also gegenseitig.
+
+:::
+
+**Mögliche Totalpunktzahl: 28**
+
 ### 1. Vollständig
 
-- Einträge zum Sprint 1
-- Einträge zum Sprint 2
-- Einträge zum Sprint 3
+| Was                                                                     | Punkte |
+| :---------------------------------------------------------------------- | -----: |
+| Fragen zum Sprint 1 beantwortet                                         |      1 |
+| Individuelle Reflexionen zum Sprint 1 vorhanden                         |      1 |
+| Fragen zum Sprint 2 beantwortet                                         |      1 |
+| Individuelle Reflexionen zum Sprint 2 vorhanden                         |      1 |
+| Fragen zum Sprint 3 beantwortet                                         |      1 |
+| Individuelle Reflexionen zum Sprint 3 vorhanden                         |      1 |
+| Antworten beziehen sich auf Quellen                                     |      1 |
+| Antworten beziehen sich ausschliesslich auf **vertrauensvolle** Quellen |      1 |
+| Individuelle Lernjournale geführt                                       |      1 |
+| Gesamtreflexion geschrieben                                             |      1 |
+| \_\_\_                                                                  | \_\_\_ |
+| **Total**                                                               | **10** |
 
 ### 2. Reflexionen / Erkenntnisse
 
-- Reflexionen zu den Einträgen bzw. Belegen aus Punkt 1 sind vorhanden (die
-  Reflexion des eigenen Lehrens und Lernens ist dokumentiert).
-- Erkenntnis aus der Retrospektive.
-- Die Arbeit wird als Fazit zusammengefasst (Gesamtreflexion).
+:::info individuelle Punkte
 
-### 3. Journal
+:::
 
-- Definition of Doing / Wann ist ein Task erledigt?
-- Definition of Fun / Wie gehen wir als Team miteinander um?
-- Arbeitsjournal pro Woche
+| Was                                                                                            | Punkte |
+| :--------------------------------------------------------------------------------------------- | -----: |
+| Die Reflexionen fragen nach dem wieso und sind **begründet**                                   |      3 |
+| Die Reflexionen beziehen sich auf den **Inhalt** sowie auch auf den **eigenen Lernprozess** \* |      3 |
+| Die Gesamtreflexion bezieht sich auf das **gesamte Modul** und ist **begründet**               |      2 |
+| Das Lernjournal ist **nachvollziehbar** geführt                                                |      1 |
+| \_\_\_                                                                                         | \_\_\_ |
+| **Total**                                                                                      |  **9** |
+
+\* sollte so sein, wenn die
+[Reflexion Fragen pro Sprint](#reflexion-fragen-pro-sprint) gewissenhaft
+beantwortet sind
+
+### 3. Definitionen
+
+| Was                                                        | Punkte |
+| :--------------------------------------------------------- | -----: |
+| Definition of Doing / Wann ist ein Task erledigt?          |      1 |
+| Definition of Fun / Wie gehen wir als Team miteinander um? |      1 |
+| \_\_\_                                                     | \_\_\_ |
+| **Total**                                                  |  **2** |
 
 ### 4. Darstellung
 
-- Das ePortfolio ist sinnvoll strukturiert, die Darstellung ist übersichtlich
-  und lesefreundlich
-- Das ePortfolio wurde mit einem sinnvollen Instrument umgesetzt
+| Was                                                                                                    | Punkte |
+| :----------------------------------------------------------------------------------------------------- | -----: |
+| Das ePortfolio ist **klar strukturiert**, die Darstellung ist **übersichtlich** und **lesefreundlich** |      2 |
+| Das ePortfolio ist **konsistent** umgesetzt (einheitliches Layout, Schrift, Struktur...)               |      1 |
+| Das ePortfolio wurde mit einem sinnvollen Instrument umgesetzt                                         |      1 |
+| \_\_\_                                                                                                 | \_\_\_ |
+| **Total**                                                                                              |  **4** |
 
 ### 5. Gesamteindruck
 
-- Das ePortfolio stellt ein komplettes Ergebnis dar
-- Der Arbeitseinsatz (Motivation) ist ersichtlich
+| Was                                             | Punkte |
+| :---------------------------------------------- | -----: |
+| Der Arbeitseinsatz (Motivation) ist ersichtlich |      3 |
+| \_\_\_                                          | \_\_\_ |
+| **Total**                                       |  **3** |
