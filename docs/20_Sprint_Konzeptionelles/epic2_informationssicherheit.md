@@ -20,8 +20,13 @@ Was ist Informationssicherheit ?
 - Was sind Informationen?
 - Was ist Sicherheit?
 - Was ist Informationssicherheit? (Nicht nur Digital)
-- Was ist das Ziel von Informationssicherheit (CIA)?
-- Wie kann das Ziel erreicht werden?
+- Was sind die drei Grundwerte der Informationssicherheit (CIA)?
+- Was sind die konkreten Sicherheitsmassnahmen?
+- Warum ist es wichtig, Mitarbeiter in Bezug auf Informationssicherheit zu
+  schulen?
+- Wie kann die Verfügbarkeit von Informationen sichergestellt werden?
+- Wie kann die Integrität von Informationen über verschiedene Systeme hinweg
+  sichergestellt werden?
 - ...
 
 </details>
