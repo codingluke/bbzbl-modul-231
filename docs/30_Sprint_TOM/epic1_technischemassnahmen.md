@@ -29,7 +29,7 @@ Who the F\*\*\* is TOM? 🧐
 <details>
   <summary>Quellen für die Recherche</summary>
 
-- [CH EDÖB: Leitfaden TOM](https://www.edoeb.admin.ch/edoeb/de/home/kurzmeldungen/km2024/23012024_leitfaden_tom.html)
+- [CH EDÖB: Leitfaden TOM](https://www.edoeb.admin.ch/de/23012024-leitfaden-tom-publiziert)
 - [**Swiss Infosec:** Technische und organisatorische Massnahmen (TOM)](https://www.infosec.ch/beratung/datenschutz/technische-und-organisatorische-massnahmen-tom/)
 - [**Toshiba Tec Switzerland AG** allgemeine Beschreibung der technischen und organisatorischen Massnahmen](https://www.toshibatec.ch/de/tom/)
 - [**Swisscom:** 10 Tipps, wie sich KMU vor Cyberattacken schützen](https://www.swisscom.ch/de/b2bmag/sicherheit/it-security-strategie-kmu/)

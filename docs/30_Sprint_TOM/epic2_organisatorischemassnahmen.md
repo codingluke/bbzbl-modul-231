@@ -26,7 +26,7 @@ keywords:
 <details>
   <summary> ℹ️ Quellen für die Recherche </summary>
 
-- [CH EDÖB: Leitfaden TOM](https://www.edoeb.admin.ch/edoeb/de/home/kurzmeldungen/km2024/23012024_leitfaden_tom.html)
+- [CH EDÖB: Leitfaden TOM](https://www.edoeb.admin.ch/de/23012024-leitfaden-tom-publiziert)
 - [**KMU CH Admin:** revDSG](https://www.kmu.admin.ch/kmu/de/home/fakten-trends/digitalisierung/datenschutz/neues-datenschutzgesetz-rev-dsg.html)
 - [**Swiss Infosec:** Technische und organisatorische Massnahmen (TOM)](https://www.infosec.ch/beratung/datenschutz/technische-und-organisatorische-massnahmen-tom/)
 - [**Toshiba Tec Switzerland AG** Allgemeine Beschreibung der technischen und organisatorischen Massnahmen](https://www.toshibatec.ch/de/tom/)
